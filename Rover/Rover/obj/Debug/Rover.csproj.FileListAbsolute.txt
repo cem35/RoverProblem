@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Rover\Rover\bin\Debug\Rover.exe.config
+C:\Users\ASUS\source\repos\Rover\Rover\bin\Debug\Rover.exe
+C:\Users\ASUS\source\repos\Rover\Rover\bin\Debug\Rover.pdb
+C:\Users\ASUS\source\repos\Rover\Rover\obj\Debug\Rover.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Rover\Rover\obj\Debug\Rover.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Rover\Rover\obj\Debug\Rover.exe
+C:\Users\ASUS\source\repos\Rover\Rover\obj\Debug\Rover.pdb
